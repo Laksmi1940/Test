@@ -10,6 +10,9 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
         System.out.println("This is the demo applicaiton");
         System.out.println("This is the from feature branch 1");
+
+        System.out.println("This is the from master branch");
+
     }
 
 }
