@@ -12,6 +12,7 @@ public class DemoApplication {
         System.out.println("This is the from feature branch 1");
 
         System.out.println("This is the from master branch");
+        System.out.println("This is the from feature branch 2");
 
     }
 
