@@ -9,6 +9,7 @@ public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
         System.out.println("This is the demo applicaiton");
+        System.out.println("This is the from feature branch 1");
     }
 
 }
